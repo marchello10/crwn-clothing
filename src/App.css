@@ -9,3 +9,8 @@ a {
     text-decoration: none;
     color: black;
 }
+
+/* removes padding on email/psw input controls */
+* {
+    box-sizing: border-box;
+}
